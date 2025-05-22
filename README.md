@@ -4,8 +4,8 @@
 
 - <b>Space Fighter </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Keylogger </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- [Keylogger](https://github.com/ethanloun/Keylogger)
 
 <h2>🔏 Cybersecurity Projects</h2>
 
