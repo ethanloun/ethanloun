@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Space Fighter </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Space Fighter](https://github.com/ethanloun/SpaceFighter)
     
 - [Keylogger](https://github.com/ethanloun/Keylogger)
 
